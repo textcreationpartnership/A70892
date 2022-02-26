@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments determination concerning the levies of horse, armes, and monies, which is now rays'd for this present designe also a remarkable passage concerning the Earle of New-castle, with the substance of the letter sent from Sir John Hotham to Mr. Pym : whereunto is added, a true declaration for the silencing all false reports concerning Sir John Hothams letter sent to Mr. Pym for the sending of 300 men to Hull for to strengthen the said towne.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70892</idno>
+            <idno type="STC">Wing P510C</idno>
+            <idno type="STC">ESTC R17611</idno>
+            <idno type="EEBO-CITATION">12547212</idno>
+            <idno type="OCLC">ocm 12547212</idno>
+            <idno type="VID">63096</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63096)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 210:15 or 747:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments determination concerning the levies of horse, armes, and monies, which is now rays'd for this present designe also a remarkable passage concerning the Earle of New-castle, with the substance of the letter sent from Sir John Hotham to Mr. Pym : whereunto is added, a true declaration for the silencing all false reports concerning Sir John Hothams letter sent to Mr. Pym for the sending of 300 men to Hull for to strengthen the said towne.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Hotham, John, Sir, d. 1645 Jan. 2.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. for N.O.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 4, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered that this be forthwith printed"</note>
+                  <note>Reproduction of original in Yale University Library and Huntington Library.</note>
+                  <note>Entry for E2136 cancelled in Wing (2nd ed.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>England and Wales. --  Parliament --  Appropriations and expenditures.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63096:1"/>
+            <!-- PDF PAGE 34 -->
+            <pb facs="tcp:63096:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>THE PARLIAMENTS DETERMINATION, Concerning The Levies of Horſe, Armes, and Mo<g ref="char:EOLhyphen"/>nies, which is now rays'd for this pre<g ref="char:EOLhyphen"/>ſent Deſigne.</p>
+            <p>Alſo a remarkable Paſſage concerning the Earle of NEW-CASTLE WITH The ſubſtance of the LETTER ſent from Sir JOHN HOTHAM to Mr. PYM.</p>
+            <p>
+               <hi>whereunto is added,</hi> A true Declaration for the ſilencing all falſe Reports concerning Sir JOHN HOTHAMS Letter ſent to Mr. PYM, for the ſending of 300 Men to <hi>Hull</hi> for to ſtrengthen the ſaid Towne. <hi>Ordered that this be forthwith Printed.</hi> Jo. Browne, Cler. Parl.</p>
+            <p>
+               <hi>Iuly,</hi> 4. LONDON, Printed by <hi>T. P.</hi> for <hi>N. O.</hi> 1641.</p>
+            <pb facs="tcp:63096:2"/>
+            <!-- PDF PAGE 35 -->
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:63096:2"/>
+            <!-- PDF PAGE 35 -->
+            <head>The Parliaments Determination, for the Leavies of Horſe, Armes, and Money for this preſent Deſigne.</head>
+            <p>
+               <seg rend="decorInit">S</seg>O farre hath the Malignant Party prevailed with his Maieſty, by their deluding and faire ſeeming Stratagems by their moſt wick<g ref="char:EOLhyphen"/>ed and pernitious Councels, that it is more then to be feared his Maieſty gives way to the raiſing of Armes againſt the Parliament, to which end there hath beene both Forraigne, and Domeſticke prepara<g ref="char:EOLhyphen"/>tion
+<pb n="2" facs="tcp:63096:3"/>
+               <!-- PDF PAGE 36 -->for the raiſing of Men, and Monyes, which the High court of Parliament taking into conſideration, thought it convenient to hinder ſuch a fatall miſchiefe, by a time<g ref="char:EOLhyphen"/>ly prevention, to which end they propoun<g ref="char:EOLhyphen"/>ded ſeverall propoſitions touching the brin<g ref="char:EOLhyphen"/>ing in of Horſe, Plate, and Money, for the raiſing of Armes to ſecure the Parliament, (on the happy continuance of which) de<g ref="char:EOLhyphen"/>pends the ſafety, and Peaceable inioy<g ref="char:EOLhyphen"/>ment of the Goſpell, and ſweet fruition of the true reformed Proteſtant Religion, the increaſe of his Maieſties Honour, and happy continuance of his Maieſties Raigne, the firme and peaceable inioyment of his Regall Dignity, and Royall Authority, e<g ref="char:EOLhyphen"/>ſtabliſhed to his Royall Maieſty, and his ſucceſſive Poſterity for ever, the Liberty, and Propriety of the Subiect, the ſecurity of Lives and eſtates, the maintenance of the Lawes by which we are governed, and the bleſſed freedome of our Chriſtian Profeſſi<g ref="char:EOLhyphen"/>on) and finding that the Malignant Party by their calumnious reports, and ſeditious
+<pb n="3" facs="tcp:63096:3"/>
+               <!-- PDF PAGE 36 -->words, began to ſlander ſuch their procee<g ref="char:EOLhyphen"/>dings, caſting aſperſions on their unblemi<g ref="char:EOLhyphen"/>ſhed Actions, giving out that their propo<g ref="char:EOLhyphen"/>ſitions for the bringing in of Plate, and Money, is to promote a warre againſt the King; therefore they, beeing deſirous to give the world ſatisfaction, and to cleere all doubts, they have thought it neceſſary to declare to the world their reall intenti<g ref="char:EOLhyphen"/>ons and determinations concerning this Deſigne, as followes.</p>
+            <p>The Lords and Commons Aſſembled in Parliament, doe declare, that the Deſigne of thoſe Propoſitions, is as was formerly declared to maintaine the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, the Kings Authority, the free courſe of Iuſtice, the Lawes of the Land, the Peace of the Kingdome, and priviledges of Parliament, againſt any force which ſhall oppoſe them.</p>
+            <p>Likewiſe the Lords and Commons doe really appeale to all His Maieſties loving Subiects, deſiring them to judge whether they have not juſt cauſe to feare, and fea<g ref="char:EOLhyphen"/>ring
+<pb n="4" facs="tcp:63096:4"/>
+               <!-- PDF PAGE 37 -->to prevent Inteſtine Warre, and ſuch uncivill diſcord as homebred Broiles pro<g ref="char:EOLhyphen"/>duceth to a Kingdome, the effect of which is Rapine, Murder, Spoyle unto King and People, theſe are the Fruits of ſeditious di<g ref="char:EOLhyphen"/>ſſention, and this we muſt expect, ſhould the Romiſh Faction (which God forbid) get the upper hand, could they but obtaine their deſires, and their yet promiſing hopes gaine their wiſhed effects, the unbounded Ocean of their viprous Envie, would like a ſwelling Torrent overflow the bounded limmits, and in a Deluge of revenge and Blood, drowne both the King and People, for though they cover all their Stratagems under a pretence of ſtanding for the King, yet we have juſt cauſe to feare the event, &amp; with our utmoſt endeavours labour to pre<g ref="char:EOLhyphen"/>vent, ſuch the malignant practizes of Our, and the Kingdomes Enemies,</p>
+            <p>The Houſe of Commons having received a report, concerning the Earle of <hi>Newcaſtle,</hi> that the ſaid Earle hath put in about 500.
+<pb n="5" facs="tcp:63096:4"/>
+               <!-- PDF PAGE 37 -->Men in Garriſon, and that the ſaid Earle is about to raiſe a Troope of Horſe, and beats the Drum for Voluntiers, the Trained Bands refuſe to come in, foure pieces of Ordnance is gone towards South <hi>Sheeles, Tinmouth,</hi> and there are 300. men in worke making a Sconce, to command all Ships, that come in or goe out, the Towne is in greater perplexity then they were the laſt yeare, Ship-maſters refuſe to goe in, leaſt their Ships be Staid.</p>
+            <p>Many other reports dayly come to the Houſe, of ſlanders caſt upon ſeverall Mem<g ref="char:EOLhyphen"/>bers of Parliament, eſpecially againſt Mr. <hi>Pym,</hi> concerning Letters ſent from Sir <hi>John Hotham,</hi> the contents whereof are here ſpecified.</p>
+            <p>Firſt, he deſired preſent ſupplies of Mo<g ref="char:EOLhyphen"/>neys for the payment of the Garriſon, who were very orderly, and obſervant to his commands.</p>
+            <p>Secondly, he deſired that three Hundred Pounds might be deſigned him, for the ma<g ref="char:EOLhyphen"/>king
+<pb n="6" facs="tcp:63096:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 38 -->of new Fortifications, and in a pri<g ref="char:EOLhyphen"/>vate Letter to Mr. <hi>Pym,</hi> deſired a ſupply of 300. Souldiers more, in caſe of any ſud<g ref="char:EOLhyphen"/>daine attempt upon the Towne, which he privately intimated, not to be publique<g ref="char:EOLhyphen"/>ly inſiſted upon (as by a miſtake it was) but to make what uſe thereof for the advan<g ref="char:EOLhyphen"/>tage of the Service of Parliament, as he ſhould thinke ſit, he being confident of the Townes obedience to the King and Parlia<g ref="char:EOLhyphen"/>ment, except a few inconſiderable Perſons, for whoſe invectives againſt the Parliament ſome of them are in reſtraint.</p>
+            <closer>Ordered by the Lords and Commons in this preſent Parliament, that this be prin<g ref="char:EOLhyphen"/>ted and publiſhed.
+<signed>Jo. Browne, Cler. Parl.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
